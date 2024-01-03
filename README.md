@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH CS/DS/MATH Laziness 
-* Student ID: Not-Vietnamese
+* Student Name: Duong Dam Lam
+* Student ID: BA12-102
 
